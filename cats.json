@@ -1,0 +1,49 @@
+{
+	"Original": [
+		"#54a6c1",
+		[
+			"chicken",
+			"scrtwpm"
+		]
+	],
+	"Desert": [
+		"#ffc690",
+		[
+			"rattlesnake",
+			"hedgehog"
+		]
+	],
+	"Heavenly Host": [
+		"#ffcb5c",
+		[
+			"angel"
+		]
+	],
+	"Haloween": [
+		"#ff7b00",
+		[
+			"glowing ghost"
+		]
+	],
+	"People": [
+		"#0400ff",
+		[
+			"harper",
+			"volcano explorer",
+			"camper",
+			"construction worker"
+		]
+	],
+	"Space": [
+		"#444444",
+		[
+			"astronaut"
+		]
+	],
+	"Christmas": [
+		"#ff0000",
+		[
+			"santa"
+		]
+	]
+}
