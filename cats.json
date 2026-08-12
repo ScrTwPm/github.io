@@ -36,6 +36,12 @@
 			"construction worker"
 		]
 	],
+	"Food": [
+		"#1d8b21",
+		[
+			"popcorn"
+		]
+	],
 	"Space": [
 		"#444444",
 		[
