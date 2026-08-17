@@ -19,13 +19,18 @@
 		[
 			"rattlesnake",
 			"hedgehog",
-            "iguana"
+            "iguana",
+			"lion",
+			"cactus",
+			"cheetah",
+			"desert ranger"
 		]
 	],
 	"Heavenly Host": [
 		"#ffcb5c",
 		[
-			"angel"
+			"angel",
+			"bible"
 		]
 	],
 	"Arctic":[
