@@ -85,7 +85,9 @@
 	"Christmas": [
 		"#ff0000",
 		[
-			"santa"
+			"santa",
+			"ornament",
+			"christmas tree"
 		]
 	],
 	"Haloween": [
